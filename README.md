@@ -1,2 +1,1 @@
-# Lab04_Flat_List
-The repository contain Lab04 excercises
+# Lab04_Flat_List - Thinh Vinh Phat - 22697421
